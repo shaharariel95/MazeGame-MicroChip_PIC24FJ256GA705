@@ -25,6 +25,13 @@ Once you've completed the setup, the game begins:
 - Your objective is to guide the ball to the bottom-left corner of the screen.
 - Be mindful of the timer and don't let it run out!
 
+
+
+https://github.com/user-attachments/assets/44f003b4-d025-401b-93fa-502e57b75792
+
+
+
+
 ### End of Game
 
 When the game ends, either due to reaching the goal or the timer running out:
